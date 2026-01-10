@@ -28,6 +28,9 @@
 
 ###
 
+### My Song
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312w5sdwm6j2f6pkab6ysjiu3qyi)
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rizqifajri25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
