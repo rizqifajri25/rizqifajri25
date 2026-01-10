@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone, i'm Rizqi Fajri Sya'ban 👋
 
 <!--
 **rizqifajri25/rizqifajri25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently Studying at Multi Data Palembang University
+
+- 🌱 I’m currently learning full-stack web Developer, Android Developer, Data Scientist, and Cyber security.
+
+![Love You](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9jY2hqY2hxejB3anNydXZzN2s1aXQ2ZGd5aWxzdzI2dDJ6N2l1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LBMiDWkCw0e53UOcm0/giphy.gif)
